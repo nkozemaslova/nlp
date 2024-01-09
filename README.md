@@ -2,7 +2,7 @@
 Предсказание оценки банка клиентом по его текстовому отзыву о работе банка. 
 
 ## Перечень команд для запуска проекта 
-1. Склонировать репозиторий: `git clone https://github.com/nkozemaslova/nlp.git`.
+1. Склонировать репозиторий: `git clone https://github.com/nkozemaslova/nlp_project.git`.
 2. Создать и активировать виртуальное окружение: `python3 -m venv .venv`, `source .venv/bin/activate`.
 3. Установить poetry и pre-commit: `pip install poetry`, `pip install pre-commit`.
 4. `poetry install`
